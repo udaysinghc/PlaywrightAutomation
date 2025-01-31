@@ -1,4 +1,0 @@
-Before All is executed
-Before each is executed
-This is test 1
-After each is executed
