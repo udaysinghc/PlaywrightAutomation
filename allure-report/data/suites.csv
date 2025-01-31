@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","41","Test 1","chromium","Thu Dec 05 16:33:25 IST 2024","passed","Thu Dec 05 16:33:25 IST 2024","Group 1","Group.spec.js","",""
+"","5","Test 2","chromium","Thu Dec 05 16:33:25 IST 2024","passed","Thu Dec 05 16:33:25 IST 2024","Group 1","Group.spec.js","",""
+"","31928","Handle Pages","chromium","Thu Dec 05 16:33:25 IST 2024","broken","Thu Dec 05 16:33:57 IST 2024","","MultiplePages.spec.js","",""
+"","30014","Handle Multiple Pages","chromium","Thu Dec 05 16:33:25 IST 2024","broken","Thu Dec 05 16:33:55 IST 2024","","MultiplePages02.spec.js","",""
